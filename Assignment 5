@@ -1,0 +1,12 @@
+3. 
+muscle -in bats_ace2.fasta -out bats_ace2_aligned.fasta
+raxmlHPC -s bats_ace2_aligned.fasta -n result -m GTRGAMMA -p 12345
+
+4. 
+ Rousettus_leschenaultii
+ Cynopterus_sphinx
+ Dobsonia_viridis
+ Syconycteris_australis
+
+5.
+This phylogeny is useful because ACE2 is the receptor used by SARS-CoV-2 and related coronaviruses to infect cells. By understanding evolutionary relationships between ACE2 sequences across bat species, scientists can identify potential viral hosts or reservoirs. This helps in tracking virus origins, monitoring zoonotic spillover risk, and informing public health responses to emerging infectious diseases.
