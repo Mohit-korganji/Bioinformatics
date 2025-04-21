@@ -1,0 +1,18 @@
+1. Species (not human): Gallus gallus (chicken)
+
+2. Gene (not tyrosinase): MSTN (Myostatin)
+
+3. Rank 1 Target Sequence and Genomic Location:
+   Target Sequence: GCGATGGTAGTAGACCGCTGTGG
+   Genomic Location: chr2:190057268
+
+4. Primer Pair for Genotyping:
+   Left Primer:
+     Sequence: TCATCTGGTACACCAAGCAAAC
+     Coordinates: chr2:190057393–190057415
+   Right Primer:
+     Sequence: AAAATTGTTGAGGGGAAAACCT
+     Coordinates: chr2:190057198–190057220
+ 
+5. Expected Phenotype Upon Knockout:
+   Knocking out the MSTN (Myostatin) gene in Gallus gallus is expected to result in a significant increase in muscle growth and mass. Myostatin functions as a negative regulator of skeletal muscle development. Loss of function mutations or CRISPR-based knockouts in MSTN have been associated with the "double muscling" phenotype in cattle, dogs, and mice, and similar effects are expected in chickens. Such a phenotype could be of agricultural interest but may also impact the animal’s mobility or overall physiology.
